@@ -3,3 +3,9 @@ height          : 44 m
 diameter        : 2.8m
 number of states: 4
 lift of mass    : 320 tonnes (XL)
+
+FOURHT STAGE OF PS4
+the PS4 is the first stage of PSLV .comprising two earth storable liquid engine
+engine     : 2 × PS4
+fuel       : MMP +MON
+max thrust : 7.6 × 2KN
