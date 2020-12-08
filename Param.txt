@@ -1,1 +1,5 @@
-
+BASE PARAM 
+height          : 44 m
+diameter        : 2.8m
+number of states: 4
+lift of mass    : 320 tonnes (XL)
